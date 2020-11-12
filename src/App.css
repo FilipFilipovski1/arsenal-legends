@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'ArsenalVh';
+    src: local('ArsenalVh'), url(./fonts/ArsenalVh.ttf) format('truetype');
+}
+
+h1{
+    font-family: 'ArsenalVh';
+    font-weight: 200;
+    color: #cf2526;
+
+}
+
